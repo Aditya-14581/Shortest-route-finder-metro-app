@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Metro Route Finder is a web application designed to help users find the optimal metro route between stations, incorporating dynamic features such as favorite routes, fare calculations, and train change notifications. It utilizes advanced algorithms and data handling techniques to provide an intuitive and efficient user experience.
+The Metro Route Finder is a web application designed to help users find the optimal metro route between stations, incorporating dynamic features such as favorite routes, fare calculations, and train change notifications. It utilizes Dijkstra's algorithms and data handling techniques to provide an intuitive and efficient user experience.
 
 ## Features
 
